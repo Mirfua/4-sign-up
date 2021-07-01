@@ -17,10 +17,10 @@ Design: [Sign up](https://cdn.discordapp.com/attachments/850245533838868480/8502
 
 - Github pages
 - desktop only
-sbsolute center (horizontal & vertical)
+- absolute center (horizontal and vertical)
 - form
-- multi-pages (sing-in & forgot password pages,...)
-- cca blur
+- multi-page (sing-in and forgot password pages, has to be linked between each other (in circle))
+- css blur
 
 ## Author
 
